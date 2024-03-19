@@ -1,0 +1,241 @@
+/* Estilos para o corpo do site */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f8f8;
+    color: #333;
+}
+
+/* Estilos para os cabeçalhos das seções */
+h2 {
+    color: #005b9f;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+/* Estilos para os parágrafos */
+p {
+    line-height: 1.5;
+}
+
+/* Estilos para os links */
+a {
+    color: #0077cc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Estilos para as seções do site */
+section {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 30px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilos para o formulário de contato */
+form {
+    margin-top: 20px;
+}
+
+label,
+input,
+textarea {
+    display: block;
+    margin-bottom: 10px;
+}
+
+input,
+textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+button {
+    background-color: #005b9f;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 3px;
+}
+
+button:hover {
+    background-color: #00416d;
+}
+
+/* Estilos para os depoimentos */
+.depoimento {
+    margin-bottom: 30px;
+}
+
+blockquote {
+    font-style: italic;
+    padding: 10px;
+    border-left: 5px solid #005b9f;
+    background-color: #f2f2f2;
+    border-radius: 3px;
+}
+
+cite {
+    display: block;
+    margin-top: 10px;
+    font-size: 14px;
+    font-style: normal;
+    color: #666;
+}
+
+/* Estilos para o rodapé do site */
+footer {
+    background-color: #005b9f;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+footer p {
+    margin-bottom: 0;
+}
+/* Estilos para a barra de navegação */
+nav {
+    background-color: #005b9f;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+/* Estilos para a página inicial */
+.home {
+    text-align: center;
+}
+
+.home h1 {
+    font-size: 48px;
+    margin-bottom: 20px;
+}
+
+.home a {
+    display: block;
+    margin-top: 20px;
+    background-color: #005b9f;
+    color: #fff;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 3px;
+}
+
+.home a:hover {
+    background-color: #00416d;
+}
+/* Estilos para a página de contato */
+.contato {
+    text-align: center;
+}
+
+.contato h2 {
+    margin-bottom: 10px;
+}
+
+.contato p {
+    line-height: 1.5;
+}
+/* Estilos para a página de depoimentos */
+.depoimentos {
+    text-align: center;
+}
+
+.depoimentos h2 {
+    margin-bottom: 10px;
+}
+
+.depoimentos p {
+    line-height: 1.5;
+}
+/* Estilos para a página de sobre nós */
+.sobre-nos {
+    text-align: center;
+}
+
+.sobre-nos h2 {
+    margin-bottom: 10px;
+}
+
+.sobre-nos p {
+    line-height: 1.5;
+}
+/* Estilos para a página de serviços */
+.servicos {
+    text-align: center;
+}
+
+.servicos h2 {
+    margin-bottom: 10px;
+}
+
+.servicos p {
+    line-height: 1.5;
+}
+/* Estilos para a página de produtos */
+.produtos {
+    text-align: center;
+}
+
+.produtos h2 {
+    margin-bottom: 10px;
+}
+
+.produtos p {
+    line-height: 1.5;
+}
+/* Estilos para a página de notícias */
+.noticias {
+    text-align: center;
+}
+
+.noticias h2 {
+    margin-bottom: 10px;
+}
+
+.noticias p {
+    line-height: 1.5;
+}
+/* Estilos para a página de eventos */
+.eventos {
+    text-align: center;
+}
+
+.eventos h2 {
+    margin-bottom: 10px;
+}
+
+.eventos p {
+    line-height: 1.5;
+}
+/* Estilos para a página de parceiros */
+.parceiros {
+    text-align: center;
+}
+
+.parceiros h2 {
+    margin-bottom: 10px;
+}
+
+.parceiros p {
+    line-height: 1.5;
+}
